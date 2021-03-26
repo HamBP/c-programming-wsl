@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc homework1.c -o homework1
+./homework1
